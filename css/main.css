@@ -1699,7 +1699,7 @@ pre .javascript .function {
   max-width: 120px;
   height: auto;
   border: 1px solid #eee;
-  opacity: 1;
+  opacity: 0.7;
 }
 .site-author-name {
   margin: 0;
@@ -1734,7 +1734,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #8e1d7f;
+  background: #ffc4f0;
 }
 .feed-link,
 .chat {

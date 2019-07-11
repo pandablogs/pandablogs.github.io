@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>不忘初心</title>
+  
+  <subtitle>方得始终</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-07-11T08:42:11.656Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Guoxu Liu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello, World!</title>
+    <link href="http://yoursite.com/2019/07/11/hello-world/"/>
+    <id>http://yoursite.com/2019/07/11/hello-world/</id>
+    <published>2019-07-11T05:50:32.985Z</published>
+    <updated>2019-07-11T08:42:11.656Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello, 我的博客在今天诞生了，希望接下来能够如博客名称一样，不忘初心，坚持如一。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Hello, 我的博客在今天诞生了，希望接下来能够如博客名称一样，不忘初心，坚持如一。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
